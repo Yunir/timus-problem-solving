@@ -1,4 +1,6 @@
 #include <iostream>
+
+/* 96 */
 /* Стенка на стенку */
 /* link: http://acm.timus.ru/problem.aspx?space=1&num=2025 */
 

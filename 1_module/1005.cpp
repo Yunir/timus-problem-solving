@@ -1,5 +1,6 @@
 #include <iostream>
 
+/* 91 */
 /* Куча камней */
 /* link: http://acm.timus.ru/problem.aspx?space=1&num=1005 */
 
