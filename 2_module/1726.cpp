@@ -18,14 +18,6 @@ bool compareY(Neighbour const& a, Neighbour const& b){
     return a.y < b.y;
 }
 
-int count(long n, long k) {
-    if(n==k)
-        return 1;
-    if(k==1)
-        return n;
-    return count(n-1, k-1)+count(n-1, k);
-}
-
 int main() {
 #ifndef ONLINE_JUDGE
     freopen("input.txt", "rt", stdin);
