@@ -25,7 +25,7 @@ int main() {
     long long n, leftside, rightside;
     long long sum = 0, res;
     cin >> n;
-    auto *list = new Neighbour[n];
+    auto list = new Neighbour[n];
     for (int i = 0; i < n; ++i) {
         cin >> list[i].x >> list[i].y;
     }
