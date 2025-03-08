@@ -1,7 +1,7 @@
 #include <iostream>
 
 /* 96 */
-/* Стенка на стенку */
+/* Line Fighting */
 /* link: http://acm.timus.ru/problem.aspx?space=1&num=2025 */
 
 int rec(int n, int k) {

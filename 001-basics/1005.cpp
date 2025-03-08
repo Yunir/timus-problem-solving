@@ -1,7 +1,7 @@
 #include <iostream>
 
 /* 91 */
-/* Куча камней */
+/* Stone Pile */
 /* link: http://acm.timus.ru/problem.aspx?space=1&num=1005 */
 
 int count(int a, int b, int i, int arr[]) {

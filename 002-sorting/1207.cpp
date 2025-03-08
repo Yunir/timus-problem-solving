@@ -6,7 +6,7 @@
 using namespace std;
 
 /* 179 */
-/* Медиана на плоскости */
+/* Median on the Plane */
 /* link: http://acm.timus.ru/problem.aspx?space=1&num=1207 */
 
 int main() {

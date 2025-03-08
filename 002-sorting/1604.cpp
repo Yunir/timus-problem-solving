@@ -4,7 +4,7 @@
 using namespace std;
 
 /* 324 */
-/* В Стране Дураков */
+/* Country of Fools */
 /* link: http://acm.timus.ru/problem.aspx?space=1&num=1604 */
 
 struct Sign {

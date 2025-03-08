@@ -4,7 +4,7 @@
 using namespace std;
 
 /* 291 */
-/* Военные учения 2 */
+/* War Games 2 */
 /* link: http://acm.timus.ru/problem.aspx?space=1&num=1521 */
 int soldier_id = 0;
 

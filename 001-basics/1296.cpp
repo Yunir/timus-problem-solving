@@ -1,7 +1,7 @@
 #include <iostream>
 
 /* 102 */
-/* Гиперпереход */
+/* Hyperjump */
 /* link: http://acm.timus.ru/problem.aspx?space=1&num=1296 */
 
 int getEnergy(int max, int res) {

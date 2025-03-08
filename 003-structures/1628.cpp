@@ -6,7 +6,7 @@
 using namespace std;
 
 /* 469 */
-/* Белые полосы */
+/* White Streaks */
 /* link: http://acm.timus.ru/problem.aspx?space=1&num=1628 */
 
 struct block {

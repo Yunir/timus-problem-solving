@@ -6,7 +6,7 @@
 using namespace std;
 
 /* 256 */
-/* Раскраска карты */
+/* Map Coloring */
 /* link: http://acm.timus.ru/problem.aspx?space=1&num=1080 */
 
 int main() {

@@ -3,7 +3,7 @@
 using namespace std;
 
 /* 267 */
-/* Кто ходит в гости… */
+/* Visits */
 /* link: http://acm.timus.ru/problem.aspx?space=1&num=1726 */
 
 struct Neighbour {

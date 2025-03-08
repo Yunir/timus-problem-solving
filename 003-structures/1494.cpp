@@ -4,7 +4,7 @@
 using namespace std;
 
 /* 188 */
-/* Монобильярд */
+/* Monobilliards */
 /* link: http://acm.timus.ru/problem.aspx?space=1&num=1494 */
 
 bool validate(int count) {

@@ -5,7 +5,7 @@
 using namespace std;
 
 /* 313 */
-/* Российские газопроводы */
+/* Russian Pipelines */
 /* link: http://acm.timus.ru/problem.aspx?space=1&num=1450 */
 
 struct edge {
